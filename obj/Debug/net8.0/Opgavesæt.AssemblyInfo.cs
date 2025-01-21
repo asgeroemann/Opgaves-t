@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Opgavesæt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29ce0b59ec08c8ed6f9185bffcf381deb6c64ad7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Opgavesæt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Opgavesæt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
