@@ -1,0 +1,14 @@
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/bin/Debug/net8.0/Opgavesæt
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/bin/Debug/net8.0/Opgavesæt.deps.json
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/bin/Debug/net8.0/Opgavesæt.runtimeconfig.json
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/bin/Debug/net8.0/Opgavesæt.dll
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/bin/Debug/net8.0/Opgavesæt.pdb
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.GeneratedMSBuildEditorConfig.editorconfig
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.AssemblyInfoInputs.cache
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.AssemblyInfo.cs
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.csproj.CoreCompileInputs.cache
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.dll
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/refint/Opgavesæt.dll
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.pdb
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/Opgavesæt.genruntimeconfig.cache
+/home/noname/Skole/Data og Kom/Hovedforløb 1/Grundlæggende Programmering 2/Opgavesæt/Opgavesæt/obj/Debug/net8.0/ref/Opgavesæt.dll
